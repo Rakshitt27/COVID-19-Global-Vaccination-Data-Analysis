@@ -1,4 +1,3 @@
-PartD:
 
 -- Summary of Administered Vaccines by Country and Date
 -- Description: This query provides a summary of the total number of administered vaccines for each country on each date.
