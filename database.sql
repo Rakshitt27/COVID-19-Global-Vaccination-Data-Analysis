@@ -1,7 +1,5 @@
---
--- File generated with SQLiteStudio v3.3.3 on Fri Nov 4 20:51:50 2022
---
--- Text encoding used: System
+
+-- Creating the whole Database for the Global Vaccination Dataset
 --
 PRAGMA foreign_keys = off;
 BEGIN TRANSACTION;
