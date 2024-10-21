@@ -9,5 +9,5 @@ Key Features:
 - Vaccine Types by Country: Lists the different types of vaccines used in each country to identify the diversity of vaccine types globally.
 - Total Administered Vaccines by Source Website: Aggregates the total vaccines administered based on the source website from which the data is obtained, offering transparency about data origins.
 - People Fully Vaccinated Over Time for Selected Countries: Displays vaccination trends for fully vaccinated individuals in Australia, the United States, Germany, and Italy, providing insights into vaccination campaigns across these nations.
-- 
+
 This project is essential for understanding global vaccination efforts and identifying trends in vaccine distribution and uptake during the COVID-19 pandemic.
